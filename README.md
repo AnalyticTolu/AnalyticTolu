@@ -5,9 +5,19 @@ I'm a **mathematics teacher turned data scientist** with a passion for uncoverin
 
 ## 🛠️ Skills & Tools
 - **Programming:** R, Python, SQL
-- **Data Visualization:** Power BI, Tableau, ggplot2, Matplotlib
-- **Machine Learning:** Scikit-learn, Caret, TensorFlow
-- **Data Analysis:** Pandas, dplyr, Tidyverse
+- **Data Visualization:** Power BI, Tableau, ggplot2, Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn, Caret, TensorFlow, Keras, XGBoost, LightGBM
+- **Data Analysis:** Pandas, dplyr, Tidyverse, NumPy, Statsmodels
+- **Big Data & Databases:** PostgreSQL, MySQL, Google BigQuery
+- **ETL & Data Processing:** Apache Spark, Alteryx, Power Query
+- **Cloud & Deployment:** AWS, Google Cloud, Streamlit, Flask
+- **Version Control & Collaboration:** Git, GitHub
+
+## 📂 Projects
+Here are some projects I have worked on:
+
+- **Sales Forecasting with Rossmann Store Sales Dataset** 📈: Focused on data cleaning, feature engineering, and predictive modeling using **Linear Regression, Random Forest, and Lasso Regression** to forecast retail sales. (R, caret, tidyverse)
+- **Movie Recommendation System (MovieLens Dataset)** 🎬: Built a recommender system using collaborative filtering, matrix factorization, and regularization techniques to predict user preferences. (R, tidyverse, recommenderlab)
 
 ## 🎯 Interests
 - **Educational Analytics** 📊
@@ -17,15 +27,19 @@ I'm a **mathematics teacher turned data scientist** with a passion for uncoverin
 - **Financial Analysis** 💰
 - **Health-related Analysis** 🏥
 - **Sports Analytics** ⚽
-- **Data-driven Decision Making** 🤖
+- **Big Data & Cloud Analytics** ☁️
+- **AI & Machine Learning Applications** 🤖
+- **Data-driven Decision Making** 📊
 
 ## 🤝 Let's Connect
 I'm actively **seeking internships, job opportunities, and collaborations** in data science, analytics, and business intelligence. If you have an interesting project or opportunity, feel free to reach out!
 
-📩 **Email:** toluchosen@gmail.com
+📩 **Email:** toluchosen@gmail.com and omoletoluwase@gmail.com
 📌 **Kaggle:** https://www.kaggle.com/toluwaseomole
-💼 **LinkedIn:** https://www.linkedin.com/in/toluwase-omole-7815a414b
-📊 **X:** https://x.com/teeboyiscool  
+💼 **LinkedIn:** https://www.linkedin.com/in/toluwase-omole
+📊 **GitHub:** https://github.com/AnalyticTolu
+🐦 **X (Twitter):** https://x.com/teeboyiscool
+📚 **DataCamp:** https://www.datacamp.com/portfolio/toluchosen
 
 Let's turn data into insights and make an impact together! 🚀
 
