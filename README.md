@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Toluwase Omole!
 
 ## 🚀 About Me
-I'm a **mathematics teacher turned data scientist** with a passion for uncovering insights from data. My journey started with a strong foundation in mathematics, leading me to explore the world of **data science, machine learning, and analytics**. I am currently pursuing the **HarvardX Professional Certificate in Data Science**, continuously improving my skills in statistical modeling and predictive analytics.
+I'm a **mathematics teacher turned data scientist** with a passion for uncovering insights from data. My journey started with a strong foundation in mathematics, leading me to explore the world of **data science, machine learning, and analytics**. I am currently pursuing the **HarvardX Professional Certificate in Data Science**, continuously improving my skills in statistical modeling and predictive analytics. I also hold an **IBM certification in Data Analysis and Visualization Fundamentals**.
 
 ## 🛠️ Skills & Tools
 - **Programming:** R, Python, SQL
@@ -13,6 +13,10 @@ I'm a **mathematics teacher turned data scientist** with a passion for uncoverin
 - **Educational Analytics** 📊
 - **Sales Forecasting** 📈
 - **Recommender Systems** 🎬
+- **Business Analysis** 💼
+- **Financial Analysis** 💰
+- **Health-related Analysis** 🏥
+- **Sports Analytics** ⚽
 - **Data-driven Decision Making** 🤖
 
 ## 🤝 Let's Connect
